@@ -1,5 +1,5 @@
 all:
-	g++ *.cpp -o main.exe
+	g++ *.cpp -o main.out
 	
 clean:
 	$(RM) -r main.out
